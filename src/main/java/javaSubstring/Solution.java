@@ -1,7 +1,17 @@
 package javaSubstring;
 
 import java.util.*;
+/*
+Sample Input
 
+Helloworld
+3 7
+
+Sample Output
+
+lowo
+
+ */
 public class Solution {
 
     public static void substring(String x, int a,int b){
