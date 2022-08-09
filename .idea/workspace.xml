@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e85aaf-211c-41b2-baa7-e10f43b0c486" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaSubstring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaSubstring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/stringsIntroduction/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="javaSubstring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.stringsIntroduction.Solution">
     <configuration name="Bottle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objectExercise.butelka_40.Bottle" />
       <module name="examplee" />
@@ -100,8 +101,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stringsIntroduction.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringsIntroduction.Solution" />
+      <module name="examplee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stringsIntroduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.stringsIntroduction.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Bottle" />
